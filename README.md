@@ -1,1 +1,2 @@
 # WOMs-application
+To improve the protection and security of women, the Women protection Application project aims to create a mobile application. The main objective of this project is to develop an effective and practical solution that enables women to report occurrences, seek assistance, and maintain contact with their support system in the event of an emergency or potential threat to their safety.
